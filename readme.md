@@ -5,7 +5,7 @@ This repository contains the materials and code for the Data Science and Machine
 
 Lectures
 --------
-Currently on (lecture 7)
+Currently on (lecture 9)
 -------------------------
 
 1.  [x]  Lecture 1 - Introduction To Data Science
@@ -15,7 +15,7 @@ Currently on (lecture 7)
 5.  [x]  Lecture 5 - More on Loops
 6.  [x]  Lecture 6 - Strings, List & 2D Lists
 7.  [x]  Lecture 7 - Functions
-8.  [ ]  Lecture 8 - Tuples, Dictionary And Sets
+8.  [x]  Lecture 8 - Tuples, Dictionary And Sets
 9.  [ ]  Lecture 9 - Object Oriented Programming Systems(OOPs)
 10. [ ]  Lecture 10 - Working With Files
 11. [ ]  Lecture 11 - NumPy
