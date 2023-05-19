@@ -18,6 +18,7 @@ Currently on (lecture 9)
 8.  [x]  Lecture 8 - Tuples, Dictionary And Sets
 9.  [ ]  Lecture 9 - Object Oriented Programming Systems(OOPs)
 10. [ ]  Lecture 10 - Working With Files
+    1.  [ ]  MiniProject1 (contact book application using OOPs , tuples, dictionary and sets and files)
 11. [ ]  Lecture 11 - NumPy
 12. [ ]  Lecture 12 - Pandas
 13. [ ]  Lecture 13 - Plotting Graphs
@@ -85,7 +86,6 @@ Currently on (lecture 9)
 
 # possible projects
 
-1. [ ]  After completing Lecture 7 - Functions and Lecture 8 - Tuples, Dictionary And Sets, I can work on a project that involves building a contact book application.
 2. [ ]  After completing Lecture 13 - Plotting Graphs, I can explore a project that involves analyzing and visualizing a dataset of my choice.
 3. [ ]  After completing Lecture 20 - Web Scraping - Selenium - 1, I can create a web scraper that collects data from a specific website.
 4. [ ]  After completing Lecture 31 - Project - Logistic Regression, I can work on a project that involves building a spam email classifier.
